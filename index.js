@@ -1,0 +1,1 @@
+console.log("ooad-lab3");
